@@ -16,6 +16,19 @@
 
 # Release Notes - Developer Analytics Tools
 ##### Application Insights and HockeyApp analytics in Visual Studio
+## Version 7.0.1
+Application Insights now supports ASP.NET Core RC2 projects. TBD
+
+Support for modern ASP.NET projects goes further with Diagnostics Hub events for ASP.NET 5 RC1 and ASP.NET Core RC2 projects. TBD
+
+We've made the Application Insights Search experience faster and more intuitive by automatically applying filters, time ranges, and events as you select them. TBD. What are the limitations? Can I change this?
+
+In Application Insights Search, there's now an option to Go to Code from requests. TBD
+
+We've improved the “Find telemetry for this…” menu in Search. TBD
+
+Finally, we've made some improvements to the HockeyApp sign-in experience. TBD
+
 ## Version 5.2
 We are happy to announce the introduction of HockeyApp scenarios in Visual Studio. The first integration we have enabled is beta distribution of Universal Windows and Windows Forms apps within VS.
 
