@@ -21,7 +21,9 @@ Application Insights now supports ASP.NET Core RC2 projects in Visual Studio. Yo
 
 ![.NET Core Support](./media/app-insights-release-notes-vsix/NetCoreSupport.PNG)
 
-Support for modern ASP.NET projects goes further with Diagnostics Hub events for ASP.NET 5 RC1 and ASP.NET Core RC2 projects. TBD
+ASP.NET 5 RC1 and ASP.NET Core RC2 projects also have new support in the Diagnostic Tools window. You'll see Application Insights events like requests and exceptions from your ASP.NET app while debugging locally on your PC. From each Application Insights event, you can drill down for more information by clicking "Search."
+
+![Diagnostic Tools support](./media/app-insights-release-notes-vsix/DiagnosticsHub.PNG)
 
 We've made the Application Insights Search experience faster and more intuitive by automatically applying filters, time ranges, and events as you select them. TBD. What are the limitations? Can I change this?
 
