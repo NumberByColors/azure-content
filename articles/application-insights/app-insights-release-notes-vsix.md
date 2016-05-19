@@ -17,7 +17,9 @@
 # Release Notes - Developer Analytics Tools
 ##### Application Insights and HockeyApp analytics in Visual Studio
 ## Version 7.0.1
-Application Insights now supports ASP.NET Core RC2 projects. TBD
+Application Insights now supports ASP.NET Core RC2 projects in Visual Studio. You can easily add Application Insights to new ASP.NET Core RC2 projects from the New Project dialog, or to an existing project by right-clicking the project in the Solution Explorer and choosing "Add Application Insights Telemetry..."
+
+![.NET Core Support](./media/app-insights-release-notes-vsix/NetCoreSupport.PNG)
 
 Support for modern ASP.NET projects goes further with Diagnostics Hub events for ASP.NET 5 RC1 and ASP.NET Core RC2 projects. TBD
 
