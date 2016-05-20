@@ -27,7 +27,7 @@ ASP.NET 5 RC1 and ASP.NET Core RC2 projects also have new support in the Diagnos
 
 Other new features:
 * We've made the Application Insights Search experience faster and more intuitive by automatically applying time ranges and detail filters as you select them
-* In Application Insights Search, there's now an option to Go to Code from requests
+* In Application Insights Search, there's now an option to Go to Code from request telemetry
 * We've added more options to the “Find telemetry for this…” menu in Search
 * We've made improvements to the HockeyApp sign-in experience.
 
